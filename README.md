@@ -164,7 +164,7 @@ This build supports [ZMK Studio](https://zmk.dev/docs/features/studio) for conve
 
 The printable case files (Step/3MF) are available on MakerWorld:
 
- **[Baikal Keyboard on MakerWorld](https://makerworld.com/en/@Vostok_Labs)**
+ **[Baikal Keyboard on MakerWorld](https://makerworld.com/en/models/2057480-baikal-split-keyboard-handwired-corne-zmk-ergo#profileId-2221061)**
 
 ---
 
