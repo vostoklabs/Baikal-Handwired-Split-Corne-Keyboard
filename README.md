@@ -140,7 +140,7 @@ If you wire according to the provided diagram, you can flash the prebuilt firmwa
 
 ### Flashing Instructions (UF2)
 
-1. Put the Nice!nano into bootloader mode (double-tap the reset button quickly)
+1. Put the Nice!nano into bootloader mode (short GND and the reset pins  quickly to simulate double-tap)
 2. A USB drive named `NICENANO` should appear
 3. Drag-and-drop the appropriate `.uf2` file onto the drive
 4. The board will automatically reboot with new firmware
@@ -150,7 +150,7 @@ If you wire according to the provided diagram, you can flash the prebuilt firmwa
 
 If you wire differently or use a different controller, you'll need to build your own ZMK firmware:
 
-- **My ZMK config repo**: [github.com/vostoklabs/zmk-config-hw](https://github.com/vostoklabs/zmk-config-hw) — Fork this and modify for your needs
+- **My ZMK config repo**: [github.com/vostoklabs/zmk-config-hw](https://github.com/vostoklabs/zmk-config-hw)  Fork this and modify for your needs
 - **ZMK User Setup Guide**: [zmk.dev/docs/user-setup](https://zmk.dev/docs/user-setup)
 - **ZMK Documentation**: [zmk.dev/docs](https://zmk.dev/docs)
 
@@ -164,7 +164,7 @@ This build supports [ZMK Studio](https://zmk.dev/docs/features/studio) for conve
 
 The printable case files (Step/3MF) are available on MakerWorld:
 
-🖨️ **[Baikal Keyboard on MakerWorld](https://makerworld.com/en/@Vostok_Labs)**
+ **[Baikal Keyboard on MakerWorld](https://makerworld.com/en/@Vostok_Labs)**
 
 ---
 
